@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Walk and Learn — Claude Code 101</title>
+    <link>https://gmaiorano.github.io/walk-and-learn/</link>
+    <language>it-it</language>
+    <itunes:author>Giuseppe Maiorano</itunes:author>
+    <description>Il corso Claude Code 101 letto con la mia voce, per imparare camminando.</description>
+    <itunes:summary>Il corso Claude Code 101 letto con la mia voce, per imparare camminando.</itunes:summary>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:category text="Technology"/>
+    <itunes:image href="https://gmaiorano.github.io/walk-and-learn/cover.jpg"/>
+    <item>
+      <title>L01 — What is Claude Code?</title>
+      <itunes:episode>1</itunes:episode>
+      <itunes:duration>03:53</itunes:duration>
+      <enclosure url="https://gmaiorano.github.io/walk-and-learn/CC101_L01_what-is-claude-code__modello-v3_pausa1.0-0.6-0.3_stab0.5.mp3" length="3731165" type="audio/mpeg"/>
+      <guid isPermaLink="false">walk-and-learn-cc101-l01</guid>
+      <pubDate>Wed, 21 Feb 2024 22:13:20 GMT</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>L02 — How it works</title>
+      <itunes:episode>2</itunes:episode>
+      <itunes:duration>05:35</itunes:duration>
+      <enclosure url="https://gmaiorano.github.io/walk-and-learn/CC101_L02_how-it-works__modello-v3_pausa1.0-0.6-0.3_stab0.5.mp3" length="5371698" type="audio/mpeg"/>
+      <guid isPermaLink="false">walk-and-learn-cc101-l02</guid>
+      <pubDate>Tue, 20 Feb 2024 22:13:20 GMT</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>L03 — Installing Claude Code</title>
+      <itunes:episode>3</itunes:episode>
+      <itunes:duration>05:33</itunes:duration>
+      <enclosure url="https://gmaiorano.github.io/walk-and-learn/CC101_L03_installing__modello-v3_pausa1.0-0.6-0.3_stab0.5.mp3" length="5328230" type="audio/mpeg"/>
+      <guid isPermaLink="false">walk-and-learn-cc101-l03</guid>
+      <pubDate>Mon, 19 Feb 2024 22:13:20 GMT</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>L04 — Your first prompt</title>
+      <itunes:episode>4</itunes:episode>
+      <itunes:duration>05:34</itunes:duration>
+      <enclosure url="https://gmaiorano.github.io/walk-and-learn/CC101_L04_your-first-prompt__modello-v3_pausa1.0-0.6-0.3_stab0.5.mp3" length="5344949" type="audio/mpeg"/>
+      <guid isPermaLink="false">walk-and-learn-cc101-l04</guid>
+      <pubDate>Sun, 18 Feb 2024 22:13:20 GMT</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>L05 — Explore, plan, code, commit</title>
+      <itunes:episode>5</itunes:episode>
+      <itunes:duration>05:31</itunes:duration>
+      <enclosure url="https://gmaiorano.github.io/walk-and-learn/CC101_L05_explore-plan-code-commit__modello-v3_pausa1.0-0.6-0.3_stab0.5.mp3" length="5305243" type="audio/mpeg"/>
+      <guid isPermaLink="false">walk-and-learn-cc101-l05</guid>
+      <pubDate>Sat, 17 Feb 2024 22:13:20 GMT</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>L06 — Context management</title>
+      <itunes:episode>6</itunes:episode>
+      <itunes:duration>06:00</itunes:duration>
+      <enclosure url="https://gmaiorano.github.io/walk-and-learn/CC101_L06_context-management__modello-v3_pausa1.0-0.6-0.3_stab0.5.mp3" length="5768342" type="audio/mpeg"/>
+      <guid isPermaLink="false">walk-and-learn-cc101-l06</guid>
+      <pubDate>Fri, 16 Feb 2024 22:13:20 GMT</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>L07 — Code review</title>
+      <itunes:episode>7</itunes:episode>
+      <itunes:duration>07:43</itunes:duration>
+      <enclosure url="https://gmaiorano.github.io/walk-and-learn/CC101_L07_code-review__modello-v3_pausa1.0-0.6-0.3_stab0.5.mp3" length="7408874" type="audio/mpeg"/>
+      <guid isPermaLink="false">walk-and-learn-cc101-l07</guid>
+      <pubDate>Thu, 15 Feb 2024 22:13:20 GMT</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>L08 — Il file CLAUDE.md</title>
+      <itunes:episode>8</itunes:episode>
+      <itunes:duration>06:55</itunes:duration>
+      <enclosure url="https://gmaiorano.github.io/walk-and-learn/CC101_L08_claude-md-file__modello-v3_pausa1.0-0.6-0.3_stab0.5.mp3" length="6645220" type="audio/mpeg"/>
+      <guid isPermaLink="false">walk-and-learn-cc101-l08</guid>
+      <pubDate>Wed, 14 Feb 2024 22:13:20 GMT</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>L09 — Subagents</title>
+      <itunes:episode>9</itunes:episode>
+      <itunes:duration>06:52</itunes:duration>
+      <enclosure url="https://gmaiorano.github.io/walk-and-learn/CC101_L09_subagents__modello-v3_pausa1.0-0.6-0.3_stab0.5.mp3" length="6602631" type="audio/mpeg"/>
+      <guid isPermaLink="false">walk-and-learn-cc101-l09</guid>
+      <pubDate>Tue, 13 Feb 2024 22:13:20 GMT</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>L10 — Skills</title>
+      <itunes:episode>10</itunes:episode>
+      <itunes:duration>06:26</itunes:duration>
+      <enclosure url="https://gmaiorano.github.io/walk-and-learn/CC101_L10_skills__modello-v3_pausa1.0-0.6-0.3_stab0.5.mp3" length="6177106" type="audio/mpeg"/>
+      <guid isPermaLink="false">walk-and-learn-cc101-l10</guid>
+      <pubDate>Mon, 12 Feb 2024 22:13:20 GMT</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>L11 — MCP</title>
+      <itunes:episode>11</itunes:episode>
+      <itunes:duration>06:02</itunes:duration>
+      <enclosure url="https://gmaiorano.github.io/walk-and-learn/CC101_L11_mcp__modello-v3_pausa1.0-0.6-0.3_stab0.5.mp3" length="5800525" type="audio/mpeg"/>
+      <guid isPermaLink="false">walk-and-learn-cc101-l11</guid>
+      <pubDate>Sun, 11 Feb 2024 22:13:20 GMT</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>L12 — Hooks</title>
+      <itunes:episode>12</itunes:episode>
+      <itunes:duration>07:06</itunes:duration>
+      <enclosure url="https://gmaiorano.github.io/walk-and-learn/CC101_L12_hooks__modello-v3_pausa1.0-0.6-0.3_stab0.5.mp3" length="6828330" type="audio/mpeg"/>
+      <guid isPermaLink="false">walk-and-learn-cc101-l12</guid>
+      <pubDate>Sat, 10 Feb 2024 22:13:20 GMT</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>
