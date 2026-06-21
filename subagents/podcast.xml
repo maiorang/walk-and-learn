@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Walk and Learn — Introduction to Subagents</title>
+    <link>https://maiorang.github.io/walk-and-learn/subagents/</link>
+    <language>it-it</language>
+    <itunes:type>serial</itunes:type>
+    <itunes:author>Giuseppe Maiorano</itunes:author>
+    <description>Il corso Subagents, con la mia voce</description>
+    <itunes:summary>Il corso Subagents, con la mia voce</itunes:summary>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:category text="Technology"/>
+    <itunes:image href="https://maiorang.github.io/walk-and-learn/subagents/cover.jpg"/>
+    <item>
+      <title>L01 — What are subagents</title>
+      <itunes:episode>1</itunes:episode>
+      <itunes:duration>03:24</itunes:duration>
+      <enclosure url="https://maiorang.github.io/walk-and-learn/subagents/SUB_L01_what-are-subagents__voce-giuseppe_v3_pausa1.0-0.6_stab0.5.mp3" length="3273918" type="audio/mpeg"/>
+      <guid isPermaLink="false">walk-and-learn-cc101-l01</guid>
+      <pubDate>Wed, 15 Nov 2023 22:13:20 GMT</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>L02 — Creating a subagent</title>
+      <itunes:episode>2</itunes:episode>
+      <itunes:duration>03:31</itunes:duration>
+      <enclosure url="https://maiorang.github.io/walk-and-learn/subagents/SUB_L02_creating-a-subagent__voce-giuseppe_v3_pausa1.0-0.6_stab0.5.mp3" length="3384259" type="audio/mpeg"/>
+      <guid isPermaLink="false">walk-and-learn-cc101-l02</guid>
+      <pubDate>Thu, 16 Nov 2023 22:13:20 GMT</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>L03 — Designing effective subagents</title>
+      <itunes:episode>3</itunes:episode>
+      <itunes:duration>03:52</itunes:duration>
+      <enclosure url="https://maiorang.github.io/walk-and-learn/subagents/SUB_L03_designing-effective-subagents__voce-giuseppe_v3_pausa1.0-0.6_stab0.5.mp3" length="3724478" type="audio/mpeg"/>
+      <guid isPermaLink="false">walk-and-learn-cc101-l03</guid>
+      <pubDate>Fri, 17 Nov 2023 22:13:20 GMT</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>L04 — Using subagents effectively</title>
+      <itunes:episode>4</itunes:episode>
+      <itunes:duration>03:47</itunes:duration>
+      <enclosure url="https://maiorang.github.io/walk-and-learn/subagents/SUB_L04_using-subagents-effectively__voce-giuseppe_v3_pausa1.0-0.6_stab0.5.mp3" length="3636288" type="audio/mpeg"/>
+      <guid isPermaLink="false">walk-and-learn-cc101-l04</guid>
+      <pubDate>Sat, 18 Nov 2023 22:13:20 GMT</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>

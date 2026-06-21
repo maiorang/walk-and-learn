@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Walk and Learn — Introduction to Agent Skills</title>
+    <link>https://maiorang.github.io/walk-and-learn/skills/</link>
+    <language>it-it</language>
+    <itunes:type>serial</itunes:type>
+    <itunes:author>Giuseppe Maiorano</itunes:author>
+    <description>Il corso Agent Skills, con la mia voce</description>
+    <itunes:summary>Il corso Agent Skills, con la mia voce</itunes:summary>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:category text="Technology"/>
+    <itunes:image href="https://maiorang.github.io/walk-and-learn/skills/cover.jpg"/>
+    <item>
+      <title>L01 — What are skills</title>
+      <itunes:episode>1</itunes:episode>
+      <itunes:duration>03:39</itunes:duration>
+      <enclosure url="https://maiorang.github.io/walk-and-learn/skills/AS_L01_what-are-skills__voce-giuseppe_v3_pausa1.0-0.6_stab0.5.mp3" length="3518424" type="audio/mpeg"/>
+      <guid isPermaLink="false">walk-and-learn-cc101-l01</guid>
+      <pubDate>Wed, 15 Nov 2023 22:13:20 GMT</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>L02 — Creating your first skill</title>
+      <itunes:episode>2</itunes:episode>
+      <itunes:duration>03:34</itunes:duration>
+      <enclosure url="https://maiorang.github.io/walk-and-learn/skills/AS_L02_creating-your-first-skill__voce-giuseppe_v3_pausa1.0-0.6_stab0.5.mp3" length="3433996" type="audio/mpeg"/>
+      <guid isPermaLink="false">walk-and-learn-cc101-l02</guid>
+      <pubDate>Thu, 16 Nov 2023 22:13:20 GMT</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>L03 — Configuration and multi file skills</title>
+      <itunes:episode>3</itunes:episode>
+      <itunes:duration>03:45</itunes:duration>
+      <enclosure url="https://maiorang.github.io/walk-and-learn/skills/AS_L03_configuration-and-multi-file-skills__voce-giuseppe_v3_pausa1.0-0.6_stab0.5.mp3" length="3612047" type="audio/mpeg"/>
+      <guid isPermaLink="false">walk-and-learn-cc101-l03</guid>
+      <pubDate>Fri, 17 Nov 2023 22:13:20 GMT</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>L04 — Skills vs other features</title>
+      <itunes:episode>4</itunes:episode>
+      <itunes:duration>04:05</itunes:duration>
+      <enclosure url="https://maiorang.github.io/walk-and-learn/skills/AS_L04_skills-vs-other-features__voce-giuseppe_v3_pausa1.0-0.6_stab0.5.mp3" length="3934711" type="audio/mpeg"/>
+      <guid isPermaLink="false">walk-and-learn-cc101-l04</guid>
+      <pubDate>Sat, 18 Nov 2023 22:13:20 GMT</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>L05 — Sharing skills</title>
+      <itunes:episode>5</itunes:episode>
+      <itunes:duration>03:42</itunes:duration>
+      <enclosure url="https://maiorang.github.io/walk-and-learn/skills/AS_L05_sharing-skills__voce-giuseppe_v3_pausa1.0-0.6_stab0.5.mp3" length="3560638" type="audio/mpeg"/>
+      <guid isPermaLink="false">walk-and-learn-cc101-l05</guid>
+      <pubDate>Sun, 19 Nov 2023 22:13:20 GMT</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>L06 — Troubleshooting skills</title>
+      <itunes:episode>6</itunes:episode>
+      <itunes:duration>03:49</itunes:duration>
+      <enclosure url="https://maiorang.github.io/walk-and-learn/skills/AS_L06_troubleshooting-skills__voce-giuseppe_v3_pausa1.0-0.6_stab0.5.mp3" length="3664292" type="audio/mpeg"/>
+      <guid isPermaLink="false">walk-and-learn-cc101-l06</guid>
+      <pubDate>Mon, 20 Nov 2023 22:13:20 GMT</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>
