@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Walk and Learn — AI Fluency: Framework &amp; Foundations</title>
+    <link>https://maiorang.github.io/walk-and-learn/ai-fluency/</link>
+    <language>it-it</language>
+    <itunes:type>serial</itunes:type>
+    <itunes:author>Giuseppe Maiorano</itunes:author>
+    <description>Il corso AI Fluency, con la mia voce</description>
+    <itunes:summary>Il corso AI Fluency, con la mia voce</itunes:summary>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:category text="Technology"/>
+    <itunes:image href="https://maiorang.github.io/walk-and-learn/ai-fluency/cover.jpg"/>
+    <item>
+      <title>L01 — Introduction</title>
+      <itunes:episode>1</itunes:episode>
+      <itunes:duration>03:35</itunes:duration>
+      <enclosure url="https://maiorang.github.io/walk-and-learn/ai-fluency/AIF_L01_introduction__voce-giuseppe_v3_pausa1.0-0.6_stab0.5.mp3" length="3445699" type="audio/mpeg"/>
+      <guid isPermaLink="false">walk-and-learn-cc101-l01</guid>
+      <pubDate>Wed, 15 Nov 2023 22:13:20 GMT</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>L02 — Why ai fluency</title>
+      <itunes:episode>2</itunes:episode>
+      <itunes:duration>03:11</itunes:duration>
+      <enclosure url="https://maiorang.github.io/walk-and-learn/ai-fluency/AIF_L02_why-ai-fluency__voce-giuseppe_v3_pausa1.0-0.6_stab0.5.mp3" length="3056579" type="audio/mpeg"/>
+      <guid isPermaLink="false">walk-and-learn-cc101-l02</guid>
+      <pubDate>Thu, 16 Nov 2023 22:13:20 GMT</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>L03 — The 4d framework</title>
+      <itunes:episode>3</itunes:episode>
+      <itunes:duration>03:33</itunes:duration>
+      <enclosure url="https://maiorang.github.io/walk-and-learn/ai-fluency/AIF_L03_the-4d-framework__voce-giuseppe_v3_pausa1.0-0.6_stab0.5.mp3" length="3418532" type="audio/mpeg"/>
+      <guid isPermaLink="false">walk-and-learn-cc101-l03</guid>
+      <pubDate>Fri, 17 Nov 2023 22:13:20 GMT</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>L04 — Generative ai fundamentals</title>
+      <itunes:episode>4</itunes:episode>
+      <itunes:duration>03:47</itunes:duration>
+      <enclosure url="https://maiorang.github.io/walk-and-learn/ai-fluency/AIF_L04_generative-ai-fundamentals__voce-giuseppe_v3_pausa1.0-0.6_stab0.5.mp3" length="3643812" type="audio/mpeg"/>
+      <guid isPermaLink="false">walk-and-learn-cc101-l04</guid>
+      <pubDate>Sat, 18 Nov 2023 22:13:20 GMT</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>L05 — Capabilities and limitations</title>
+      <itunes:episode>5</itunes:episode>
+      <itunes:duration>03:47</itunes:duration>
+      <enclosure url="https://maiorang.github.io/walk-and-learn/ai-fluency/AIF_L05_capabilities-and-limitations__voce-giuseppe_v3_pausa1.0-0.6_stab0.5.mp3" length="3646319" type="audio/mpeg"/>
+      <guid isPermaLink="false">walk-and-learn-cc101-l05</guid>
+      <pubDate>Sun, 19 Nov 2023 22:13:20 GMT</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>L06 — Delegation</title>
+      <itunes:episode>6</itunes:episode>
+      <itunes:duration>03:09</itunes:duration>
+      <enclosure url="https://maiorang.github.io/walk-and-learn/ai-fluency/AIF_L06_delegation__voce-giuseppe_v3_pausa1.0-0.6_stab0.5.mp3" length="3039861" type="audio/mpeg"/>
+      <guid isPermaLink="false">walk-and-learn-cc101-l06</guid>
+      <pubDate>Mon, 20 Nov 2023 22:13:20 GMT</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>L07 — Project planning and delegation</title>
+      <itunes:episode>7</itunes:episode>
+      <itunes:duration>03:18</itunes:duration>
+      <enclosure url="https://maiorang.github.io/walk-and-learn/ai-fluency/AIF_L07_project-planning-and-delegation__voce-giuseppe_v3_pausa1.0-0.6_stab0.5.mp3" length="3171518" type="audio/mpeg"/>
+      <guid isPermaLink="false">walk-and-learn-cc101-l07</guid>
+      <pubDate>Tue, 21 Nov 2023 22:13:20 GMT</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>L08 — Description</title>
+      <itunes:episode>8</itunes:episode>
+      <itunes:duration>03:24</itunes:duration>
+      <enclosure url="https://maiorang.github.io/walk-and-learn/ai-fluency/AIF_L08_description__voce-giuseppe_v3_pausa1.0-0.6_stab0.5.mp3" length="3266395" type="audio/mpeg"/>
+      <guid isPermaLink="false">walk-and-learn-cc101-l08</guid>
+      <pubDate>Wed, 22 Nov 2023 22:13:20 GMT</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>L09 — Effective prompting</title>
+      <itunes:episode>9</itunes:episode>
+      <itunes:duration>03:27</itunes:duration>
+      <enclosure url="https://maiorang.github.io/walk-and-learn/ai-fluency/AIF_L09_effective-prompting__voce-giuseppe_v3_pausa1.0-0.6_stab0.5.mp3" length="3313624" type="audio/mpeg"/>
+      <guid isPermaLink="false">walk-and-learn-cc101-l09</guid>
+      <pubDate>Thu, 23 Nov 2023 22:13:20 GMT</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>L10 — Discernment</title>
+      <itunes:episode>10</itunes:episode>
+      <itunes:duration>02:57</itunes:duration>
+      <enclosure url="https://maiorang.github.io/walk-and-learn/ai-fluency/AIF_L10_discernment__voce-giuseppe_v3_pausa1.0-0.6_stab0.5.mp3" length="2838822" type="audio/mpeg"/>
+      <guid isPermaLink="false">walk-and-learn-cc101-l10</guid>
+      <pubDate>Fri, 24 Nov 2023 22:13:20 GMT</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>L11 — Description discernment loop</title>
+      <itunes:episode>11</itunes:episode>
+      <itunes:duration>03:02</itunes:duration>
+      <enclosure url="https://maiorang.github.io/walk-and-learn/ai-fluency/AIF_L11_description-discernment-loop__voce-giuseppe_v3_pausa1.0-0.6_stab0.5.mp3" length="2918235" type="audio/mpeg"/>
+      <guid isPermaLink="false">walk-and-learn-cc101-l11</guid>
+      <pubDate>Sat, 25 Nov 2023 22:13:20 GMT</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>L12 — Diligence</title>
+      <itunes:episode>12</itunes:episode>
+      <itunes:duration>03:02</itunes:duration>
+      <enclosure url="https://maiorang.github.io/walk-and-learn/ai-fluency/AIF_L12_diligence__voce-giuseppe_v3_pausa1.0-0.6_stab0.5.mp3" length="2913219" type="audio/mpeg"/>
+      <guid isPermaLink="false">walk-and-learn-cc101-l12</guid>
+      <pubDate>Sun, 26 Nov 2023 22:13:20 GMT</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>L13 — Conclusion</title>
+      <itunes:episode>13</itunes:episode>
+      <itunes:duration>03:00</itunes:duration>
+      <enclosure url="https://maiorang.github.io/walk-and-learn/ai-fluency/AIF_L13_conclusion__voce-giuseppe_v3_pausa1.0-0.6_stab0.5.mp3" length="2886052" type="audio/mpeg"/>
+      <guid isPermaLink="false">walk-and-learn-cc101-l13</guid>
+      <pubDate>Mon, 27 Nov 2023 22:13:20 GMT</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>
