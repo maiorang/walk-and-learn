@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Walk and Learn — AI Fluency for Small Businesses</title>
+    <link>https://maiorang.github.io/walk-and-learn/small-business/</link>
+    <language>it-it</language>
+    <itunes:type>serial</itunes:type>
+    <itunes:author>Giuseppe Maiorano</itunes:author>
+    <description>Il corso AI Fluency per piccole imprese, con la mia voce</description>
+    <itunes:summary>Il corso AI Fluency per piccole imprese, con la mia voce</itunes:summary>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:category text="Technology"/>
+    <itunes:image href="https://maiorang.github.io/walk-and-learn/small-business/cover.jpg"/>
+    <item>
+      <title>L01 — Introduction</title>
+      <itunes:episode>1</itunes:episode>
+      <itunes:duration>02:33</itunes:duration>
+      <enclosure url="https://maiorang.github.io/walk-and-learn/small-business/SMB_L01_introduction__voce-giuseppe_v3_pausa1.0-0.6_stab0.5.mp3" length="2449702" type="audio/mpeg"/>
+      <guid isPermaLink="false">walk-and-learn-cc101-l01</guid>
+      <pubDate>Wed, 15 Nov 2023 22:13:20 GMT</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>L02 — The 4d framework</title>
+      <itunes:episode>2</itunes:episode>
+      <itunes:duration>02:27</itunes:duration>
+      <enclosure url="https://maiorang.github.io/walk-and-learn/small-business/SMB_L02_the-4d-framework__voce-giuseppe_v3_pausa1.0-0.6_stab0.5.mp3" length="2364021" type="audio/mpeg"/>
+      <guid isPermaLink="false">walk-and-learn-cc101-l02</guid>
+      <pubDate>Thu, 16 Nov 2023 22:13:20 GMT</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>L03 — Mental model of ai</title>
+      <itunes:episode>3</itunes:episode>
+      <itunes:duration>02:30</itunes:duration>
+      <enclosure url="https://maiorang.github.io/walk-and-learn/small-business/SMB_L03_mental-model-of-ai__voce-giuseppe_v3_pausa1.0-0.6_stab0.5.mp3" length="2411250" type="audio/mpeg"/>
+      <guid isPermaLink="false">walk-and-learn-cc101-l03</guid>
+      <pubDate>Fri, 17 Nov 2023 22:13:20 GMT</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>L04 — Next token simulator</title>
+      <itunes:episode>4</itunes:episode>
+      <itunes:duration>02:15</itunes:duration>
+      <enclosure url="https://maiorang.github.io/walk-and-learn/small-business/SMB_L04_next-token-simulator__voce-giuseppe_v3_pausa1.0-0.6_stab0.5.mp3" length="2171759" type="audio/mpeg"/>
+      <guid isPermaLink="false">walk-and-learn-cc101-l04</guid>
+      <pubDate>Sat, 18 Nov 2023 22:13:20 GMT</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>L05 — Description discernment research</title>
+      <itunes:episode>5</itunes:episode>
+      <itunes:duration>02:38</itunes:duration>
+      <enclosure url="https://maiorang.github.io/walk-and-learn/small-business/SMB_L05_description-discernment-research__voce-giuseppe_v3_pausa1.0-0.6_stab0.5.mp3" length="2534130" type="audio/mpeg"/>
+      <guid isPermaLink="false">walk-and-learn-cc101-l05</guid>
+      <pubDate>Sun, 19 Nov 2023 22:13:20 GMT</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>L06 — Delegation diligence customer data</title>
+      <itunes:episode>6</itunes:episode>
+      <itunes:duration>02:31</itunes:duration>
+      <enclosure url="https://maiorang.github.io/walk-and-learn/small-business/SMB_L06_delegation-diligence-customer-data__voce-giuseppe_v3_pausa1.0-0.6_stab0.5.mp3" length="2425461" type="audio/mpeg"/>
+      <guid isPermaLink="false">walk-and-learn-cc101-l06</guid>
+      <pubDate>Mon, 20 Nov 2023 22:13:20 GMT</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>L07 — Choosing tasks to delegate</title>
+      <itunes:episode>7</itunes:episode>
+      <itunes:duration>02:26</itunes:duration>
+      <enclosure url="https://maiorang.github.io/walk-and-learn/small-business/SMB_L07_choosing-tasks-to-delegate__voce-giuseppe_v3_pausa1.0-0.6_stab0.5.mp3" length="2337271" type="audio/mpeg"/>
+      <guid isPermaLink="false">walk-and-learn-cc101-l07</guid>
+      <pubDate>Tue, 21 Nov 2023 22:13:20 GMT</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>L08 — Responsible use and transparency</title>
+      <itunes:episode>8</itunes:episode>
+      <itunes:duration>02:28</itunes:duration>
+      <enclosure url="https://maiorang.github.io/walk-and-learn/small-business/SMB_L08_responsible-use-and-transparency__voce-giuseppe_v3_pausa1.0-0.6_stab0.5.mp3" length="2379485" type="audio/mpeg"/>
+      <guid isPermaLink="false">walk-and-learn-cc101-l08</guid>
+      <pubDate>Wed, 22 Nov 2023 22:13:20 GMT</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>L09 — Putting it into practice</title>
+      <itunes:episode>9</itunes:episode>
+      <itunes:duration>02:40</itunes:duration>
+      <enclosure url="https://maiorang.github.io/walk-and-learn/small-business/SMB_L09_putting-it-into-practice__voce-giuseppe_v3_pausa1.0-0.6_stab0.5.mp3" length="2570075" type="audio/mpeg"/>
+      <guid isPermaLink="false">walk-and-learn-cc101-l09</guid>
+      <pubDate>Thu, 23 Nov 2023 22:13:20 GMT</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>
