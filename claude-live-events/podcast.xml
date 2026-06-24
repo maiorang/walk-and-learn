@@ -84,5 +84,50 @@
       <pubDate>Wed, 14 Feb 2024 22:13:20 GMT</pubDate>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>L09 — Combattere il crimine finanziario con Claude Cowork</title>
+      <itunes:episode>9</itunes:episode>
+      <itunes:duration>27:04</itunes:duration>
+      <enclosure url="https://maiorang.github.io/walk-and-learn/claude-live-events/CLE_L09_crimine-finanziario-cowork__voce-giuseppe_v3.mp3" length="25984035" type="audio/mpeg"/>
+      <guid isPermaLink="false">walk-and-learn-cle-l09</guid>
+      <pubDate>Tue, 13 Feb 2024 22:13:20 GMT</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>L10 — Dove il codice incontra il tribunale: l&#x27;AI alla frontiera legale-tecnica</title>
+      <itunes:episode>10</itunes:episode>
+      <itunes:duration>33:30</itunes:duration>
+      <enclosure url="https://maiorang.github.io/walk-and-learn/claude-live-events/CLE_L10_codice-incontra-tribunale__voce-giuseppe_v3.mp3" length="32165276" type="audio/mpeg"/>
+      <guid isPermaLink="false">walk-and-learn-cle-l10</guid>
+      <pubDate>Mon, 12 Feb 2024 22:13:20 GMT</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>L11 — Come Metaview ha costruito prompt auto-miglioranti per la revisione delle candidature</title>
+      <itunes:episode>11</itunes:episode>
+      <itunes:duration>21:39</itunes:duration>
+      <enclosure url="https://maiorang.github.io/walk-and-learn/claude-live-events/CLE_L11_metaview-prompt-auto-miglioranti__voce-giuseppe_v3.mp3" length="20792101" type="audio/mpeg"/>
+      <guid isPermaLink="false">walk-and-learn-cle-l11</guid>
+      <pubDate>Sun, 11 Feb 2024 22:13:20 GMT</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>L12 — Insegnare agli agent a imparare dal tuo team</title>
+      <itunes:episode>12</itunes:episode>
+      <itunes:duration>31:34</itunes:duration>
+      <enclosure url="https://maiorang.github.io/walk-and-learn/claude-live-events/CLE_L12_insegnare-agli-agent-dal-team__voce-giuseppe_v3.mp3" length="30304939" type="audio/mpeg"/>
+      <guid isPermaLink="false">walk-and-learn-cle-l12</guid>
+      <pubDate>Sat, 10 Feb 2024 22:13:20 GMT</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>L13 — Costruire il miglior harness di analytics agentico</title>
+      <itunes:episode>13</itunes:episode>
+      <itunes:duration>31:15</itunes:duration>
+      <enclosure url="https://maiorang.github.io/walk-and-learn/claude-live-events/CLE_L13_harness-analytics-agentico__voce-giuseppe_v3.mp3" length="30014921" type="audio/mpeg"/>
+      <guid isPermaLink="false">walk-and-learn-cle-l13</guid>
+      <pubDate>Fri, 09 Feb 2024 22:13:20 GMT</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
