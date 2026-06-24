@@ -22,6 +22,15 @@
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
+      <title>L02 — Tool, skill o subagent? Scomporre un agent oltre il suo prompt</title>
+      <itunes:episode>2</itunes:episode>
+      <itunes:duration>53:35</itunes:duration>
+      <enclosure url="https://maiorang.github.io/walk-and-learn/claude-live-events/CLE_L02_tool-skill-o-subagent__voce-giuseppe_v3.mp3" length="51446039" type="audio/mpeg"/>
+      <guid isPermaLink="false">walk-and-learn-cle-l02</guid>
+      <pubDate>Tue, 20 Feb 2024 22:13:20 GMT</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>L03 — Agent Battle: estrarre più diamanti in 45 minuti</title>
       <itunes:episode>3</itunes:episode>
       <itunes:duration>08:30</itunes:duration>
@@ -31,12 +40,48 @@
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
+      <title>L04 — Evals per il gusto: hill-climbing di un agent per slide</title>
+      <itunes:episode>4</itunes:episode>
+      <itunes:duration>54:56</itunes:duration>
+      <enclosure url="https://maiorang.github.io/walk-and-learn/claude-live-events/CLE_L04_evals-per-il-gusto__voce-giuseppe_v3.mp3" length="52751326" type="audio/mpeg"/>
+      <guid isPermaLink="false">walk-and-learn-cle-l04</guid>
+      <pubDate>Sun, 18 Feb 2024 22:13:20 GMT</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>L05 — Agent che ricordano</title>
       <itunes:episode>5</itunes:episode>
-      <itunes:duration>24:15</itunes:duration>
-      <enclosure url="https://maiorang.github.io/walk-and-learn/claude-live-events/CLE_L05_agent-che-ricordano__voce-giuseppe_v3.mp3" length="23283764" type="audio/mpeg"/>
+      <itunes:duration>32:18</itunes:duration>
+      <enclosure url="https://maiorang.github.io/walk-and-learn/claude-live-events/CLE_L05_agent-che-ricordano__voce-giuseppe_v3.mp3" length="31008409" type="audio/mpeg"/>
       <guid isPermaLink="false">walk-and-learn-cle-l05</guid>
       <pubDate>Sat, 17 Feb 2024 22:13:20 GMT</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>L06 — Come usiamo Claude Code</title>
+      <itunes:episode>6</itunes:episode>
+      <itunes:duration>32:39</itunes:duration>
+      <enclosure url="https://maiorang.github.io/walk-and-learn/claude-live-events/CLE_L06_come-usiamo-claude-code__voce-giuseppe_v3.mp3" length="31352764" type="audio/mpeg"/>
+      <guid isPermaLink="false">walk-and-learn-cle-l06</guid>
+      <pubDate>Fri, 16 Feb 2024 22:13:20 GMT</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>L07 — Workflow agentici affidabili e verificabili con una DSL custom</title>
+      <itunes:episode>7</itunes:episode>
+      <itunes:duration>34:38</itunes:duration>
+      <enclosure url="https://maiorang.github.io/walk-and-learn/claude-live-events/CLE_L07_workflow-dsl-custom__voce-giuseppe_v3.mp3" length="33254565" type="audio/mpeg"/>
+      <guid isPermaLink="false">walk-and-learn-cle-l07</guid>
+      <pubDate>Thu, 15 Feb 2024 22:13:20 GMT</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>L08 — Come AirOps insegue la frizione per costruire prodotti AI con Claude</title>
+      <itunes:episode>8</itunes:episode>
+      <itunes:duration>33:54</itunes:duration>
+      <enclosure url="https://maiorang.github.io/walk-and-learn/claude-live-events/CLE_L08_airops-frizione__voce-giuseppe_v3.mp3" length="32554858" type="audio/mpeg"/>
+      <guid isPermaLink="false">walk-and-learn-cle-l08</guid>
+      <pubDate>Wed, 14 Feb 2024 22:13:20 GMT</pubDate>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
